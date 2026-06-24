@@ -1,0 +1,17 @@
+_secrets/
+*.env
+.env
+_contexte/
+_reprise/
+_inbox/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.mkv
+Thumbs.db
+.DS_Store
